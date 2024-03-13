@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senorhappytaco
-- 👀 I’m interested in AI, automating the boring stuff.
+- 👀 I’m interested in AI, automating the boring stuff, creating cool apps.
 - 🌱 I’m currently learning python
 
 
